@@ -41,7 +41,7 @@ void AddSMRun2Systematics(CombineHarvester &cb, bool jetfakes, bool embedding, b
       "qqH_PTJET1_GT200", "qqH_VH2JET"};
   std::vector<std::string> signals_VH = {
       // STXS stage 0
-      "WH125", "ZH125", "ttH125"};
+      "WH125", "ZH125"};
   std::vector<std::string> signals_ggHToWW = {
      // STXS stage 0
      "ggHWW125"};
